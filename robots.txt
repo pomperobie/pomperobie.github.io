@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pomperobie.github.io/sitemap
+Sitemap: https://pomperobie.github.io/app/sitemap
+Sitemap: https://pomperobie.github.io/assets/sitemap
+Sitemap: https://pomperobie.github.io/css/sitemap
+Sitemap: https://pomperobie.github.io/includes/sitemap
+Sitemap: https://pomperobie.github.io/item/sitemap
+Sitemap: https://pomperobie.github.io/src/sitemap
